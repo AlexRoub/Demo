@@ -9,5 +9,8 @@ public class Main {
         System.out.println("This is the addition!");
         System.out.println("This is the addition 1!");
         System.out.println("This is the addition 2!");
+
+        Car car = new Car("Tesla X Y", 5);
+        System.out.println("Model is" + car.getModel() + " and it has " + car.getDoors() + " doors.");
     }
 }
