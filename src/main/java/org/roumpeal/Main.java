@@ -6,5 +6,6 @@ public class Main {
         System.out.println("I want to show you a new feature!");
         System.out.println("This is the new feature!");
         System.out.println("This is the updated feature!");
+        System.out.println("This is the addition!");
     }
 }
